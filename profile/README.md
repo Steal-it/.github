@@ -1,4 +1,4 @@
-<h1 align="center">👋 Welcome to Steal-it organization!</h1>
+<h1 align="center">👋 Welcome to Steal it organization!</h1>
 
 ## Organization repository structure
 
