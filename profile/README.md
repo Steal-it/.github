@@ -1,9 +1,5 @@
 <h1 align="center">👋 Welcome to Steal It organization!</h1>
 
-<div align=center>
-  <a href="https://steal-it.github.io">Trailer</a>
-</div>
-
 ## Organization repository structure
 
 As you can see there are multiple repositories:
